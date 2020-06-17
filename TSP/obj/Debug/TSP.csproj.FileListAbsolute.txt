@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\TSP\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\user\Desktop\Универ\Лабораторные\Лабы С#\TSP\TSP\obj\Debug\TSP.pdb
